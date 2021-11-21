@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">My Playground</string>
+    <string name="switch1" />
+    <string name="textViewPlayground">Welcome to my Playground!</string>
+    <string name="buttonDont">Don\'t Click Here</string>
+    <string name="switchYesNo">Yes or No?</string>
+    <string name="pop_fly_away_logo">Pop Fly Away Logo</string>
+    <string name="checkBoxuhhuh">Uh-Huh</string>
+    <string name="radioButtonA">A</string>
+    <string name="radioButtonB">B</string>
+    <string name="radioButtonC">C</string>
 </resources>
